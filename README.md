@@ -7,7 +7,9 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=staralstjr&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=staralstjr&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=staralstjr&theme=dracula)
+
 ### ⚡ Tech Stack
 
 🌱 Learning & Want to Learn
